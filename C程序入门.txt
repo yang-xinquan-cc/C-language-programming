@@ -1,0 +1,5 @@
+软件:Dev C++5.11
+链接:https://pan.baidu.com/s/1I7Q5Y1u7UbW1aERDG6v1PQ
+提取码:vytx
+
+本仓库程序设计主要指算法，故主要用C++
