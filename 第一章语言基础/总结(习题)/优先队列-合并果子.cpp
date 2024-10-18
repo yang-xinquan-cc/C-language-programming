@@ -1,4 +1,4 @@
-//优先队列priority_queue / set
+//优先队列priority_queue / multiset
 //合并果子
 //https://www.lanqiao.cn/problems/741/learning/?page=1&first_category_id=1&problem_id=741
 #include <bits/stdc++.h>
