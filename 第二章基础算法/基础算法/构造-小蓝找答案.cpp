@@ -1,3 +1,6 @@
+//构造
+//小蓝找答案
+//https://www.lanqiao.cn/problems/5424/learning/?page=1&first_category_id=1&problem_id=5424
 #include<bits/stdc++.h>
 using namespace std;
 
